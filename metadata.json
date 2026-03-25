@@ -1,0 +1,5 @@
+{
+  "name": "CardsEnvGuard",
+  "description": "A server management dashboard for organizing and tracking infrastructure across Development, Testing, and Production environments.",
+  "requestFramePermissions": []
+}
